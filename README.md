@@ -52,7 +52,7 @@ numpy_basics:
 To use the image processing tools, follow these steps:
 1. Open a command line or terminal.
 2. Navigate to the directory where the `Image_Processing_Tools.py` script is located.
-3. Enter the command `python Image_Processing_Tools.py`.
+3. Enter the command `python src\Image_Processing_Tools.py`.
 
 
 ## Results
