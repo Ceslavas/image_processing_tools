@@ -1,0 +1,6 @@
+﻿numpy_basics:  
+    # Path to the image file
+    image_path: "data\\image_cat.bmp"
+   
+    # Step for image division
+    step: "1"
